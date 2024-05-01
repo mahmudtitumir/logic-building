@@ -1,0 +1,3 @@
+/home/mahmud/Documents/coding/c_problem/logicWithMysirg/cmake-build-debug/CMakeFiles/logicWithMysirg.dir
+/home/mahmud/Documents/coding/c_problem/logicWithMysirg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mahmud/Documents/coding/c_problem/logicWithMysirg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
