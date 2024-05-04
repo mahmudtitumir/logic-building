@@ -8,19 +8,10 @@ int main() {
     printf(" The Radius is %f", 3.14 * r * r);
     // code 05
     int a, b, c;
+    float avg;
     scanf("%d %d %d", &a, &b, &c);
-    if (a > b) {
-        if (a > c)
-            printf("%d is the largest number", a);
-        else
-            printf("%d is the largest number", c);
-    }
-    else {
-        if (b > c)
-            printf("%d is the largest number", b);
-        else
-            printf("%d is the largest number", c);
-    }
+    avg = (a + b + c) / 3.0;
+    printf("Average is %f", avg);
     */
     // code 06
     int a;

@@ -1,2 +1,15 @@
 .idea
 cmake-build-debug
+*.o
+*.exe
+l2
+l3
+l4
+l5
+l6
+l7
+l8
+l9
+l10
+l32
+l32.c

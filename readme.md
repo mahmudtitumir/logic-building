@@ -28,8 +28,21 @@ To illustrate the problem-solving technique, this repository includes examples o
 6. write a program to print only last digit of a number.
 7. write a program to swap two numbers with different logic.
 8. write a program to check whether a given number is positive or negative.
-9. write a program to check whether a number is even or odd.
-   1
+9. write a program to check whether a number is even or odd and without using modulus(%) operator.
+10. write a program to print number among three numbers.
+11. write a program to check whether a number is divisible by 2 and 3 or 5 or not.
+12. write a program to print 1st N natural numbers.
+13. write a program to print 1st N numbers in reverse order.
+14. write a program to print 1st N odd numbers.
+15. write a program to print 1st N even numbers.
+16. write a program to print english alphabets in lower case.
+17. write a program to print english alphabets in upper case.
+18. write a program to calculate sum of 1st N natural numbers.
+19. write a program to calculate sum of 1st N odd numbers.
+20. write a program to calculate sum of 1st N even numbers.
+21. write a program to print 1st N terms of the series 1, 3, 6, 10, 15, 21 ...
+22. write a program to print 1st N terms of the series 2, 5, 10, 17, 26, 37 ...
+23.
 
 ## Contributing
 

@@ -317,13 +317,13 @@ void sortcity(char city[][20], int n)
 	}
 }
 
-int swap(int *x, int *y)
+int swap(int* x, int* y)
 {
 	int temp;
 	temp = *x;
 	*x = *y;
 	*y = temp;
-	return *x, *y;
+	return *x, * y;
 }
 
 int main()
