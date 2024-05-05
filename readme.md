@@ -42,11 +42,32 @@ To illustrate the problem-solving technique, this repository includes examples o
 20. write a program to calculate sum of 1st N even numbers.
 21. write a program to print 1st N terms of the series 1, 3, 6, 10, 15, 21 ...
 22. write a program to print 1st N terms of the series 2, 5, 10, 17, 26, 37 ...
-23.
+23. write a program to print reverse a number.
+24. write a program to reverse a number with storing in another variable.
+25. write a program to check whether a number is palindrome or not.
+26. write a program to reverse a number not using loop.
+27. write a program to check whether a number is prime or not.
+28. write a program to print prime numbers between 1 to N.
+29. write a program to print star/number pattern.
+    ![star pattern](https://media.geeksforgeeks.org/wp-content/uploads/20230127144126/Pattern-Programs-in-C.jpg)
+30. write a program which takes month number as input and print number of days in that month.
+31. write a program which takes marks of a student as input and print grade.
 
-## Contributing
+## Problem solving technique
 
-Contributions to this repository are welcome! If you have a problem-solving technique or an example to share, please submit a pull request. Make sure to follow the contribution guidelines outlined in the repository.
+## Approach
+
+To solve the problem, follow these steps:
+
+1. **Understand the Problem**: Read and understand the problem statement thoroughly. Identify the input and output requirements.
+
+## Resources
+
+1. [YouTube Channel](https://www.youtube.com)
+
+## Conclusion
+
+This repository contains a problem-solving technique that can be used to approach and solve various programming problems. The technique involves understanding the problem, identifying the input and output requirements, and developing a step-by-step plan to solve the problem.
 
 ## License
 
