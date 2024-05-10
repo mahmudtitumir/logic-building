@@ -92,26 +92,88 @@ To illustrate the problem-solving technique, this repository includes examples o
 60. write a function to find index of maximum element of array(TSRS).
 61. write a function to rotate array elements by one(TSRS).
 62. write a function to rotate array elements by N(TSRS).
-63. write a function to sort array elements in insertion way(TSRS).
-64. write a function to sort array elements in bubble way(TSRS).
+63. write a function to sort array elements in insertion way.
+64. write a function to sort array elements in bubble way.
 65. write a function to print frequency of each element of array(TSRS).
+66. write a function to calculate length of a string not using built-in function(TSRS).
+67. write a function to copy one string to another string not using built-in function(TSRS).
+68. write a function to reverse a strings not using built-in function(TSRS).
+69. write a function to convert a string into upper case(TSRS).
+70. write a function to convert a string into lower case(TSRS).
+71. write a function to count vowels in a string(TSRS).
+72. write a function to check whether a string is alphanumeric or not(TSRS).
+73. write a function to compere two strings(TSRS).
+74. write a function to check whether a given string contains a given pattern or not(TSRS).
+75. write a function to sort city names.
+76. write a function to interchange two variables.
+77. Define a structure of Employee having data members as id, name, salary. Write a function to print employee details.
+78. Define a structure to store time in hours, minutes and seconds.
+79. Define a function to setTime(question 77).
+80. Define a function to showTime(question 77).
+81. Implement linked list to store integer data.
 
-## Problem solving technique
+[More Question](moreQuestion.md)
+
+## Lessons and Motivation from this Course
+
+This course has taught me a lot about problem-solving techniques and how to approach and solve various programming problems. The course has helped me improve my problem-solving skills, learn new programming concepts, and become a better programmer.
+
+Here are some key lessons and motivation that I have learned from this course:
+
+-   Lecture 08: At the first time, following the problem is solve the question ownself. This is the called logic building. one day grow your logic building. This is the main key to become a good programmer. And grow your **confidence** and **interest** in programming.
+
+-   Lecture 09: carefully read the question. Learning is not answer the question. Learning is how to solve the question. Be patient and try to solve the question ownself and Dry Run your program in every line.
+
+-   Lecture 10: Regularity is very important, without regularity you can't learn anything. So, be regular and practice daily.
+
+-   Lecture 11: Convert your simple question into complex question. This is the main key to become a good programmer. In programming, mathematice is very important.
+
+-   Lecture 12: Interviewer check that how you think and how you approach the question. Adviece: Ask your Interviewer about problem/question.
+
+-   Lecture 13: If your brain train to solve the question then you brain click the answer in a second. Always put your brain into uncomfortable situation to solve the question.
+
+-   Lecture 18: At first time solve the question ownself. That is solving the question. Question solving is not important, how to think and process of solve the question is important.
+
+-   Lecture 26: Solution is not interesting, process of solution is interesting. It's make problem solver. The process of thinking towards into problem. When you become a teacher or mentor, you remember that justify your content to the fees.
+
+-   Lecture 27: Difference between topper and you is consistency. Topper is consistent in his work. Toppers make his weakness into strong point. When you solve the question, you enjoy the process. Hard work -> Enjoy -> Confidence -> Consistency -> Success.
+
+-   Lecture 28: when you pay for something, then you sincerely do the work.
+
+## Summary
+
+This repository contains a problem-solving technique that can be used to approach and solve various programming problems. The technique involves understanding the problem, identifying the input and output requirements, and developing a step-by-step plan to solve the problem.
+
+## References
+
+-   [MySirG.com YouTube Channel](https://www.youtube.com/@mysirgdotcom)
+-   [Course Playlist](https://www.youtube.com/playlist?list=PL7ersPsTyYt1I2qKWkVT8L4521MmEHdeQ)
 
 ## Approach
 
 To solve the problem, follow these steps:
 
-1. **Understand the Problem**: Read and understand the problem statement thoroughly. Identify the input and output requirements.
+1. Understand the Problem: Read and understand the problem statement thoroughly. Identify the input and output requirements.
 
-## Resources
+2. Build own test case following the problem: Understand the problem then make your own test case.
 
-1. [YouTube Channel](https://www.youtube.com)
+3. Dry and Run: After writing your program. The program has no need to run on the computer, run yourself. This pattern is called Dry and Run.
+    - Dry Run: Run the program in your mind, step by step, to see how it works.
+    - Run: Run the program on the computer to verify that it works correctly.
+
+To solve recursive problems, follow these steps:
+
+1. Suppose compelete the problem. Example: printNaturalNum(n) 1 2 3 4 5 6 n
+
+    - This called print case.
+
+2. Then, original program to be simpler version of problem. Example: printNaturalNum(n-1) 1 2 3 4 print(n)
+
+    - This called recursive case.
+
+3. Then, write a condition to stop the program. Example: n == 0
+    - This called base case.
 
 ## Conclusion
 
 This repository contains a problem-solving technique that can be used to approach and solve various programming problems. The technique involves understanding the problem, identifying the input and output requirements, and developing a step-by-step plan to solve the problem.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
