@@ -30,9 +30,14 @@ This course has taught me a lot about problem-solving techniques and how to appr
 
 Here are some key lessons and motivation that I have learned from this course:
 
+-   **Lecture 06**:
+
+    1. write your draft logic on paper. Then dry run on the code. After finding mistakes, improve the logic. Again dry run on the code with test cases. After finding solutions, write the code.
+    2. The finding solution your logic, then efficient your logic/code, then reduce unnecessary steps.
+
 -   **Lecture 08**: For the first time, following the problem is solving the question itself. This is called logic building. One day grow your logic building. This is the main key to becoming a good programmer. And grow your **confidence** and **interest** in programming.
 
--   **Lecture 09**: carefully read the question. Learning does not answer the question. Learning is how to solve the question. Be patient try to solve the question yourself and Dry Run your program in every line.
+-   **Lecture 09**: Carefully read the question. Learning does not answer the question. Learning is how to solve the question. Be patient try to solve the question yourself and Dry Run your program in every line.
 
 -   **Lecture 10**: Regularity is very important, without regularity you can't learn anything. So, be regular and practice daily.
 
